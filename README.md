@@ -29,11 +29,11 @@ YouGile, Figma, Android Studio.
 В ходе работы над проектом было проведено тестирование веб- и мобильного приложения.
 
 **1. Тест-кейсы и чек-листы:**
-* [Главная страница и форма «Обсудить сотрудничество»](./Test_Cases_Main_Page.md)
-* [Регистрация и Авторизация (Физ. и Юр. лица)](./Test_Cases_Registration.md)
-* [Личный кабинет кандидата](./Test_Cases_Candidate_Profile.md)
-* [Личный кабинет компании](./Test_Cases_Company_Profile.md)
-* [Отправка заявок и управление предложениями](./Test_Cases_Applications.md)
+* [Главная страница и форма «Обсудить сотрудничество»](https://docs.google.com/spreadsheets/d/1--wxctF7jKiJ4Fc1CL4rQMVvq70-sp5g/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
+* [Регистрация и Авторизация (Физ. и Юр. лица)](https://docs.google.com/spreadsheets/d/1MBftfzOEKCZcrJGYKTQOrViTGrD3982e/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
+* [Личный кабинет кандидата](https://docs.google.com/spreadsheets/d/1u50eWfKNXoBGvOnSBHKh_Ij01gpRi0DX/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
+* [Личный кабинет компании](https://docs.google.com/spreadsheets/d/11SkagBUDonYWalZmdP6CGidhB4TECUvz/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
+* [Отправка заявок и управление предложениями](https://docs.google.com/spreadsheets/d/1F-3klV5IDKkECCd5H6vxEdNRYRP85aQZ/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
 
 **2. Примеры баг-репортов:**
 * [Посмотреть примеры багов (Markdown)](./Bug_Reports_Hitch.md)
