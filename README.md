@@ -28,7 +28,7 @@ YouGile, Figma, Android Studio.
 
 В ходе работы над проектом было проведено тестирование веб- и мобильного приложения.
 
-**1. Тест-кейсы и чек-листы:**
+**1. Тест-кейсы (Google Docs):**
 * [Главная страница и форма «Обсудить сотрудничество»](https://docs.google.com/spreadsheets/d/1--wxctF7jKiJ4Fc1CL4rQMVvq70-sp5g/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
 * [Регистрация и Авторизация (Физ. и Юр. лица)](https://docs.google.com/spreadsheets/d/1MBftfzOEKCZcrJGYKTQOrViTGrD3982e/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
 * [Личный кабинет кандидата](https://docs.google.com/spreadsheets/d/1u50eWfKNXoBGvOnSBHKh_Ij01gpRi0DX/edit?usp=sharing&ouid=100371961836438754386&rtpof=true&sd=true)
